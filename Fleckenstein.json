@@ -1,0 +1,13 @@
+{
+	"file": "https://www.dropbox.com/s/35f6i9ebg2hr9yh/Fleckenstein_Binary.csv",
+	"name": "DJ Playlist Fleckenstein",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Song" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 8  }
+	]
+}
